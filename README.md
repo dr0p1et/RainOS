@@ -1,6 +1,6 @@
 # RainOS
 
-<img title="" src="./RainOS.png" width="202">
+<img title="" src="./RainOS.png" width="200">
 
 一款精简的多架构64位微内核操作系统实现，支持x86、ARM、海思等架构。
 
